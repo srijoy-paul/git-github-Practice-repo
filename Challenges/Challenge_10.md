@@ -1,6 +1,6 @@
-## Welcome to Challenge 11
+## Welcome to Challenge 10
 
-Welcome to the 11th challenge!
+Welcome to the 10th challenge!
 
 Today's challenge is simple.
 
